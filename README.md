@@ -1,5 +1,5 @@
 ## Reverse Engineering resources  
-[![Awesome](https://i.imgur.com/kFWKPVZ.png)](http://kalitut.com)
+[![Awesome](https://i.imgur.com/kFWKPVZ.png)](https://github.com/Brattlof/Reverse-Engineering)
 A curated list of awesome reversing resources   
 
 - [Awesome Reversing](#awesome-reversing)
